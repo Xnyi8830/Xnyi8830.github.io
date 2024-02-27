@@ -21,12 +21,12 @@ repository               : "Xnyi8830/Xnyi8830.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "@Deltanpopo on tw.jpeg"
-  name             : "Your Sidebar Name"
+  avatar           : "@4B1E6E5A77232E06EE15CF4BD3185302455F69BF4655B51EDB7AF1A10A64D95B_sk_12_cid_1.jpeg"
+  name             : "JJK"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi world"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : ""
   uri              : # URL
   email            : "none@example.org" 
 
